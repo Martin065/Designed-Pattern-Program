@@ -1,0 +1,13 @@
+C:\Users\User\Source\Repos\Design Pattern Program\Chapter_1.1 computer Using OO\bin\Debug\netcoreapp3.1\Chapter_1.1 computer Using OO.exe
+C:\Users\User\Source\Repos\Design Pattern Program\Chapter_1.1 computer Using OO\bin\Debug\netcoreapp3.1\Chapter_1.1 computer Using OO.deps.json
+C:\Users\User\Source\Repos\Design Pattern Program\Chapter_1.1 computer Using OO\bin\Debug\netcoreapp3.1\Chapter_1.1 computer Using OO.runtimeconfig.json
+C:\Users\User\Source\Repos\Design Pattern Program\Chapter_1.1 computer Using OO\bin\Debug\netcoreapp3.1\Chapter_1.1 computer Using OO.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\Design Pattern Program\Chapter_1.1 computer Using OO\bin\Debug\netcoreapp3.1\Chapter_1.1 computer Using OO.dll
+C:\Users\User\Source\Repos\Design Pattern Program\Chapter_1.1 computer Using OO\bin\Debug\netcoreapp3.1\Chapter_1.1 computer Using OO.pdb
+C:\Users\User\Source\Repos\Design Pattern Program\Chapter_1.1 computer Using OO\obj\Debug\netcoreapp3.1\Chapter_1.1 computer Using OO.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\Design Pattern Program\Chapter_1.1 computer Using OO\obj\Debug\netcoreapp3.1\Chapter_1.1 computer Using OO.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\Design Pattern Program\Chapter_1.1 computer Using OO\obj\Debug\netcoreapp3.1\Chapter_1.1 computer Using OO.AssemblyInfo.cs
+C:\Users\User\Source\Repos\Design Pattern Program\Chapter_1.1 computer Using OO\obj\Debug\netcoreapp3.1\Chapter_1.1 computer Using OO.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Design Pattern Program\Chapter_1.1 computer Using OO\obj\Debug\netcoreapp3.1\Chapter_1.1 computer Using OO.dll
+C:\Users\User\Source\Repos\Design Pattern Program\Chapter_1.1 computer Using OO\obj\Debug\netcoreapp3.1\Chapter_1.1 computer Using OO.pdb
+C:\Users\User\Source\Repos\Design Pattern Program\Chapter_1.1 computer Using OO\obj\Debug\netcoreapp3.1\Chapter_1.1 computer Using OO.genruntimeconfig.cache
