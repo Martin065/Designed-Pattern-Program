@@ -1,0 +1,12 @@
+G:\Martin\_DesignedPatten\Design Pattern Program\Design Pattern Program\bin\Debug\netcoreapp3.1\Design Pattern Program.exe
+G:\Martin\_DesignedPatten\Design Pattern Program\Design Pattern Program\bin\Debug\netcoreapp3.1\Design Pattern Program.deps.json
+G:\Martin\_DesignedPatten\Design Pattern Program\Design Pattern Program\bin\Debug\netcoreapp3.1\Design Pattern Program.runtimeconfig.json
+G:\Martin\_DesignedPatten\Design Pattern Program\Design Pattern Program\bin\Debug\netcoreapp3.1\Design Pattern Program.runtimeconfig.dev.json
+G:\Martin\_DesignedPatten\Design Pattern Program\Design Pattern Program\bin\Debug\netcoreapp3.1\Design Pattern Program.dll
+G:\Martin\_DesignedPatten\Design Pattern Program\Design Pattern Program\bin\Debug\netcoreapp3.1\Design Pattern Program.pdb
+G:\Martin\_DesignedPatten\Design Pattern Program\Design Pattern Program\obj\Debug\netcoreapp3.1\Design Pattern Program.AssemblyInfoInputs.cache
+G:\Martin\_DesignedPatten\Design Pattern Program\Design Pattern Program\obj\Debug\netcoreapp3.1\Design Pattern Program.AssemblyInfo.cs
+G:\Martin\_DesignedPatten\Design Pattern Program\Design Pattern Program\obj\Debug\netcoreapp3.1\Design Pattern Program.csproj.CoreCompileInputs.cache
+G:\Martin\_DesignedPatten\Design Pattern Program\Design Pattern Program\obj\Debug\netcoreapp3.1\Design Pattern Program.dll
+G:\Martin\_DesignedPatten\Design Pattern Program\Design Pattern Program\obj\Debug\netcoreapp3.1\Design Pattern Program.pdb
+G:\Martin\_DesignedPatten\Design Pattern Program\Design Pattern Program\obj\Debug\netcoreapp3.1\Design Pattern Program.genruntimeconfig.cache

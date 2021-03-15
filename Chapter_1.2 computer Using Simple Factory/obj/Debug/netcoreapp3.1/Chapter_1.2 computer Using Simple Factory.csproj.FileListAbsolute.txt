@@ -1,0 +1,12 @@
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_1.2 computer Using Simple Factory\bin\Debug\netcoreapp3.1\Chapter_1.2 computer Using Simple Factory.exe
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_1.2 computer Using Simple Factory\bin\Debug\netcoreapp3.1\Chapter_1.2 computer Using Simple Factory.deps.json
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_1.2 computer Using Simple Factory\bin\Debug\netcoreapp3.1\Chapter_1.2 computer Using Simple Factory.runtimeconfig.json
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_1.2 computer Using Simple Factory\bin\Debug\netcoreapp3.1\Chapter_1.2 computer Using Simple Factory.runtimeconfig.dev.json
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_1.2 computer Using Simple Factory\bin\Debug\netcoreapp3.1\Chapter_1.2 computer Using Simple Factory.dll
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_1.2 computer Using Simple Factory\bin\Debug\netcoreapp3.1\Chapter_1.2 computer Using Simple Factory.pdb
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_1.2 computer Using Simple Factory\obj\Debug\netcoreapp3.1\Chapter_1.2 computer Using Simple Factory.AssemblyInfoInputs.cache
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_1.2 computer Using Simple Factory\obj\Debug\netcoreapp3.1\Chapter_1.2 computer Using Simple Factory.AssemblyInfo.cs
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_1.2 computer Using Simple Factory\obj\Debug\netcoreapp3.1\Chapter_1.2 computer Using Simple Factory.csproj.CoreCompileInputs.cache
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_1.2 computer Using Simple Factory\obj\Debug\netcoreapp3.1\Chapter_1.2 computer Using Simple Factory.dll
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_1.2 computer Using Simple Factory\obj\Debug\netcoreapp3.1\Chapter_1.2 computer Using Simple Factory.pdb
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_1.2 computer Using Simple Factory\obj\Debug\netcoreapp3.1\Chapter_1.2 computer Using Simple Factory.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_2.1 Store Cash Register\bin\Debug\Chapter_2.1 Store Cash Register.exe.config
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_2.1 Store Cash Register\bin\Debug\Chapter_2.1 Store Cash Register.exe
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_2.1 Store Cash Register\bin\Debug\Chapter_2.1 Store Cash Register.pdb
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_2.1 Store Cash Register\obj\Debug\Chapter_2._1_Store_Cash_Register.Form1.resources
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_2.1 Store Cash Register\obj\Debug\Chapter_2._1_Store_Cash_Register.Properties.Resources.resources
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_2.1 Store Cash Register\obj\Debug\Chapter_2.1 Store Cash Register.csproj.GenerateResource.cache
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_2.1 Store Cash Register\obj\Debug\Chapter_2.1 Store Cash Register.csproj.CoreCompileInputs.cache
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_2.1 Store Cash Register\obj\Debug\Chapter_2.1 Store Cash Register.exe
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_2.1 Store Cash Register\obj\Debug\Chapter_2.1 Store Cash Register.pdb

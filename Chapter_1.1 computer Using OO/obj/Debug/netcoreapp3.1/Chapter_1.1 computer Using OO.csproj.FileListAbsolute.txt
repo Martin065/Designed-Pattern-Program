@@ -11,3 +11,15 @@ C:\Users\User\Source\Repos\Design Pattern Program\Chapter_1.1 computer Using OO\
 C:\Users\User\Source\Repos\Design Pattern Program\Chapter_1.1 computer Using OO\obj\Debug\netcoreapp3.1\Chapter_1.1 computer Using OO.dll
 C:\Users\User\Source\Repos\Design Pattern Program\Chapter_1.1 computer Using OO\obj\Debug\netcoreapp3.1\Chapter_1.1 computer Using OO.pdb
 C:\Users\User\Source\Repos\Design Pattern Program\Chapter_1.1 computer Using OO\obj\Debug\netcoreapp3.1\Chapter_1.1 computer Using OO.genruntimeconfig.cache
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_1.1 computer Using OO\bin\Debug\netcoreapp3.1\Chapter_1.1 computer Using OO.exe
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_1.1 computer Using OO\bin\Debug\netcoreapp3.1\Chapter_1.1 computer Using OO.deps.json
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_1.1 computer Using OO\bin\Debug\netcoreapp3.1\Chapter_1.1 computer Using OO.runtimeconfig.json
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_1.1 computer Using OO\bin\Debug\netcoreapp3.1\Chapter_1.1 computer Using OO.runtimeconfig.dev.json
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_1.1 computer Using OO\bin\Debug\netcoreapp3.1\Chapter_1.1 computer Using OO.dll
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_1.1 computer Using OO\bin\Debug\netcoreapp3.1\Chapter_1.1 computer Using OO.pdb
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_1.1 computer Using OO\obj\Debug\netcoreapp3.1\Chapter_1.1 computer Using OO.AssemblyInfoInputs.cache
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_1.1 computer Using OO\obj\Debug\netcoreapp3.1\Chapter_1.1 computer Using OO.AssemblyInfo.cs
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_1.1 computer Using OO\obj\Debug\netcoreapp3.1\Chapter_1.1 computer Using OO.csproj.CoreCompileInputs.cache
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_1.1 computer Using OO\obj\Debug\netcoreapp3.1\Chapter_1.1 computer Using OO.dll
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_1.1 computer Using OO\obj\Debug\netcoreapp3.1\Chapter_1.1 computer Using OO.pdb
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_1.1 computer Using OO\obj\Debug\netcoreapp3.1\Chapter_1.1 computer Using OO.genruntimeconfig.cache

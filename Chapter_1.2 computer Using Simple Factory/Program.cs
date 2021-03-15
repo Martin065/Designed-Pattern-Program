@@ -7,6 +7,33 @@ namespace Chapter_1._2_computer_Using_Simple_Factory
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            try
+            {
+                string operandA = "";
+                string operandB = "";
+                string operatorC = "";
+                Console.WriteLine("Please input number (operandA) : ");
+                operandA = Console.ReadLine();
+                Console.WriteLine("Please input operator(+,-,*,/) : ");
+                operatorC = Console.ReadLine();
+                Console.WriteLine("Please input number (operandB) : ");
+                operandB = Console.ReadLine();
+
+                double result = 0;
+                double numberA = Convert.ToDouble(operandA);
+                double numberB = Convert.ToDouble(operandB);
+
+                Operation op = OperationFactory.createOperate(operatorC);
+                op.NumberA = numberA;
+                op.NumberB = numberB;
+                result = op.GetResult();
+
+                Console.WriteLine("result : " + result.ToString());
+            } 
+            catch (Exception e)
+            {
+            
+            }
         }
     }
     public class OperationFactory 

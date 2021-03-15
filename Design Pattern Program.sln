@@ -7,7 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Design Pattern Program", "D
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chapter_1.1 computer Using OO", "Chapter_1.1 computer Using OO\Chapter_1.1 computer Using OO.csproj", "{6B03F60F-2B09-4B6E-9551-E1CDD4E354B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter_1.2 computer Using Simple Factory", "Chapter_1.2 computer Using Simple Factory\Chapter_1.2 computer Using Simple Factory.csproj", "{F3670DB7-FC14-46A6-958B-68F25C8990CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chapter_1.2 computer Using Simple Factory", "Chapter_1.2 computer Using Simple Factory\Chapter_1.2 computer Using Simple Factory.csproj", "{F3670DB7-FC14-46A6-958B-68F25C8990CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter_2.1 Store Cash Register", "Chapter_2.1 Store Cash Register\Chapter_2.1 Store Cash Register.csproj", "{92A93448-4B5E-4BAE-BCE0-CC3BB09DDBB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter_2.2 Store Cash Register Using Simple Factory", "Chapter_2.2 Store Cash Register Using Simple Factory\Chapter_2.2 Store Cash Register Using Simple Factory.csproj", "{56188E2D-7061-4405-B239-945D69BFF214}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{F3670DB7-FC14-46A6-958B-68F25C8990CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3670DB7-FC14-46A6-958B-68F25C8990CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3670DB7-FC14-46A6-958B-68F25C8990CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92A93448-4B5E-4BAE-BCE0-CC3BB09DDBB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92A93448-4B5E-4BAE-BCE0-CC3BB09DDBB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92A93448-4B5E-4BAE-BCE0-CC3BB09DDBB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92A93448-4B5E-4BAE-BCE0-CC3BB09DDBB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56188E2D-7061-4405-B239-945D69BFF214}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56188E2D-7061-4405-B239-945D69BFF214}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56188E2D-7061-4405-B239-945D69BFF214}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56188E2D-7061-4405-B239-945D69BFF214}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
