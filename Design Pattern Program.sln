@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter_2.1 Store Cash Regi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter_2.2 Store Cash Register Using Simple Factory", "Chapter_2.2 Store Cash Register Using Simple Factory\Chapter_2.2 Store Cash Register Using Simple Factory.csproj", "{56188E2D-7061-4405-B239-945D69BFF214}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter_2.3 Store Cash Register Using Strategy", "Chapter_2.3 Store Cash Register Using Strategy\Chapter_2.3 Store Cash Register Using Strategy.csproj", "{136E6C08-90CD-4219-BB2F-E55F96259FF7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{56188E2D-7061-4405-B239-945D69BFF214}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56188E2D-7061-4405-B239-945D69BFF214}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56188E2D-7061-4405-B239-945D69BFF214}.Release|Any CPU.Build.0 = Release|Any CPU
+		{136E6C08-90CD-4219-BB2F-E55F96259FF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{136E6C08-90CD-4219-BB2F-E55F96259FF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{136E6C08-90CD-4219-BB2F-E55F96259FF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{136E6C08-90CD-4219-BB2F-E55F96259FF7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
