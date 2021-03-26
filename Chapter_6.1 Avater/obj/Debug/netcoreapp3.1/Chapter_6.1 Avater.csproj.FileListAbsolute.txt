@@ -1,0 +1,13 @@
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_6.1 Avater\bin\Debug\netcoreapp3.1\Chapter_6.1 Avater.exe
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_6.1 Avater\bin\Debug\netcoreapp3.1\Chapter_6.1 Avater.deps.json
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_6.1 Avater\bin\Debug\netcoreapp3.1\Chapter_6.1 Avater.runtimeconfig.json
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_6.1 Avater\bin\Debug\netcoreapp3.1\Chapter_6.1 Avater.runtimeconfig.dev.json
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_6.1 Avater\bin\Debug\netcoreapp3.1\Chapter_6.1 Avater.dll
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_6.1 Avater\bin\Debug\netcoreapp3.1\Chapter_6.1 Avater.pdb
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_6.1 Avater\obj\Debug\netcoreapp3.1\Chapter_6.1 Avater.csprojAssemblyReference.cache
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_6.1 Avater\obj\Debug\netcoreapp3.1\Chapter_6.1 Avater.AssemblyInfoInputs.cache
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_6.1 Avater\obj\Debug\netcoreapp3.1\Chapter_6.1 Avater.AssemblyInfo.cs
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_6.1 Avater\obj\Debug\netcoreapp3.1\Chapter_6.1 Avater.csproj.CoreCompileInputs.cache
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_6.1 Avater\obj\Debug\netcoreapp3.1\Chapter_6.1 Avater.dll
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_6.1 Avater\obj\Debug\netcoreapp3.1\Chapter_6.1 Avater.pdb
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_6.1 Avater\obj\Debug\netcoreapp3.1\Chapter_6.1 Avater.genruntimeconfig.cache

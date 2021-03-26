@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Martin\\_DesignedPatten\\Design Pattern Program\\Chapter_1.1 computer Using OO\\Chapter_1.1 computer Using OO.csproj": {}
+    "G:\\Martin\\_DesignedPatten\\Design Pattern Program\\Chapter_6.1 Avater\\Chapter_6.1 Avater.csproj": {}
   },
   "projects": {
-    "G:\\Martin\\_DesignedPatten\\Design Pattern Program\\Chapter_1.1 computer Using OO\\Chapter_1.1 computer Using OO.csproj": {
+    "G:\\Martin\\_DesignedPatten\\Design Pattern Program\\Chapter_6.1 Avater\\Chapter_6.1 Avater.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Martin\\_DesignedPatten\\Design Pattern Program\\Chapter_1.1 computer Using OO\\Chapter_1.1 computer Using OO.csproj",
-        "projectName": "Chapter_1.1 computer Using OO",
-        "projectPath": "G:\\Martin\\_DesignedPatten\\Design Pattern Program\\Chapter_1.1 computer Using OO\\Chapter_1.1 computer Using OO.csproj",
+        "projectUniqueName": "G:\\Martin\\_DesignedPatten\\Design Pattern Program\\Chapter_6.1 Avater\\Chapter_6.1 Avater.csproj",
+        "projectName": "Chapter_6.1 Avater",
+        "projectPath": "G:\\Martin\\_DesignedPatten\\Design Pattern Program\\Chapter_6.1 Avater\\Chapter_6.1 Avater.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "G:\\Martin\\_DesignedPatten\\Design Pattern Program\\Chapter_1.1 computer Using OO\\obj\\",
+        "outputPath": "G:\\Martin\\_DesignedPatten\\Design Pattern Program\\Chapter_6.1 Avater\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
