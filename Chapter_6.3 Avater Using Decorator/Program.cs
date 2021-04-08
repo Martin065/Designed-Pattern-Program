@@ -35,6 +35,8 @@ namespace Chapter_6._3_Avater_Using_Decorator
              * 
              * 應用端來說：
              * 先透過decorate pattern把需要的功能串接起來，統一丟到command pattern的啟動位置去啟動。
+             * 
+             * 又或許說，友崧用的只是多型的概念，還不是真正的command pattern。
              */
         }
     }

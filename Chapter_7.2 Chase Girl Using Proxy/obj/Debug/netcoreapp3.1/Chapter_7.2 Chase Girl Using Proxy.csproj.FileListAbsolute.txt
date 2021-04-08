@@ -1,0 +1,12 @@
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_7.2 Chase Girl Using Proxy\bin\Debug\netcoreapp3.1\Chapter_7.2 Chase Girl Using Proxy.exe
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_7.2 Chase Girl Using Proxy\bin\Debug\netcoreapp3.1\Chapter_7.2 Chase Girl Using Proxy.deps.json
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_7.2 Chase Girl Using Proxy\bin\Debug\netcoreapp3.1\Chapter_7.2 Chase Girl Using Proxy.runtimeconfig.json
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_7.2 Chase Girl Using Proxy\bin\Debug\netcoreapp3.1\Chapter_7.2 Chase Girl Using Proxy.runtimeconfig.dev.json
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_7.2 Chase Girl Using Proxy\bin\Debug\netcoreapp3.1\Chapter_7.2 Chase Girl Using Proxy.dll
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_7.2 Chase Girl Using Proxy\bin\Debug\netcoreapp3.1\Chapter_7.2 Chase Girl Using Proxy.pdb
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_7.2 Chase Girl Using Proxy\obj\Debug\netcoreapp3.1\Chapter_7.2 Chase Girl Using Proxy.AssemblyInfoInputs.cache
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_7.2 Chase Girl Using Proxy\obj\Debug\netcoreapp3.1\Chapter_7.2 Chase Girl Using Proxy.AssemblyInfo.cs
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_7.2 Chase Girl Using Proxy\obj\Debug\netcoreapp3.1\Chapter_7.2 Chase Girl Using Proxy.csproj.CoreCompileInputs.cache
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_7.2 Chase Girl Using Proxy\obj\Debug\netcoreapp3.1\Chapter_7.2 Chase Girl Using Proxy.dll
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_7.2 Chase Girl Using Proxy\obj\Debug\netcoreapp3.1\Chapter_7.2 Chase Girl Using Proxy.pdb
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_7.2 Chase Girl Using Proxy\obj\Debug\netcoreapp3.1\Chapter_7.2 Chase Girl Using Proxy.genruntimeconfig.cache
