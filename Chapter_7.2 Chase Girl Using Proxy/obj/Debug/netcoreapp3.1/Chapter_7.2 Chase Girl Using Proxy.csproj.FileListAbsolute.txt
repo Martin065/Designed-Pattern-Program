@@ -10,3 +10,4 @@ G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_7.2 Chase Girl Using Pr
 G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_7.2 Chase Girl Using Proxy\obj\Debug\netcoreapp3.1\Chapter_7.2 Chase Girl Using Proxy.dll
 G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_7.2 Chase Girl Using Proxy\obj\Debug\netcoreapp3.1\Chapter_7.2 Chase Girl Using Proxy.pdb
 G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_7.2 Chase Girl Using Proxy\obj\Debug\netcoreapp3.1\Chapter_7.2 Chase Girl Using Proxy.genruntimeconfig.cache
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_7.2 Chase Girl Using Proxy\obj\Debug\netcoreapp3.1\Chapter_7.2 Chase Girl Using Proxy.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_8.1 Factory Method Sample\bin\Debug\netcoreapp3.1\Chapter_8.1 Factory Method Sample.exe
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_8.1 Factory Method Sample\bin\Debug\netcoreapp3.1\Chapter_8.1 Factory Method Sample.deps.json
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_8.1 Factory Method Sample\bin\Debug\netcoreapp3.1\Chapter_8.1 Factory Method Sample.runtimeconfig.json
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_8.1 Factory Method Sample\bin\Debug\netcoreapp3.1\Chapter_8.1 Factory Method Sample.runtimeconfig.dev.json
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_8.1 Factory Method Sample\bin\Debug\netcoreapp3.1\Chapter_8.1 Factory Method Sample.dll
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_8.1 Factory Method Sample\bin\Debug\netcoreapp3.1\Chapter_8.1 Factory Method Sample.pdb
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_8.1 Factory Method Sample\obj\Debug\netcoreapp3.1\Chapter_8.1 Factory Method Sample.csprojAssemblyReference.cache
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_8.1 Factory Method Sample\obj\Debug\netcoreapp3.1\Chapter_8.1 Factory Method Sample.AssemblyInfoInputs.cache
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_8.1 Factory Method Sample\obj\Debug\netcoreapp3.1\Chapter_8.1 Factory Method Sample.AssemblyInfo.cs
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_8.1 Factory Method Sample\obj\Debug\netcoreapp3.1\Chapter_8.1 Factory Method Sample.csproj.CoreCompileInputs.cache
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_8.1 Factory Method Sample\obj\Debug\netcoreapp3.1\Chapter_8.1 Factory Method Sample.dll
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_8.1 Factory Method Sample\obj\Debug\netcoreapp3.1\Chapter_8.1 Factory Method Sample.pdb
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_8.1 Factory Method Sample\obj\Debug\netcoreapp3.1\Chapter_8.1 Factory Method Sample.genruntimeconfig.cache

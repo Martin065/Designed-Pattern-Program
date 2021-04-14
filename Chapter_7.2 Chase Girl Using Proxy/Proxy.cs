@@ -14,11 +14,11 @@ namespace Chapter_7._2_Chase_Girl_Using_Proxy
 
         public void GiveDolls() 
         {
-            
+            p.GiveDolls();
         }
         public void GiveFlowers() 
         {
-        
+            p.GiveFlowers();
         }
     }
 }
