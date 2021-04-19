@@ -38,6 +38,7 @@ namespace Chapter_2._4_Store_Cash_Register_Using_Strategy_and_Simple_Factory
              * 也不需要在客戶端進行底層類別物件的建立，
              * 甚至不需要知道這些底層類別的抽象類別是什麼，
              * 只需要知道 Context 即可。
+             * 意即不需要親自去new物件。
              */
             CashContext cc = new CashContext(strategy);
 

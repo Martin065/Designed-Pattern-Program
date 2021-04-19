@@ -1,0 +1,13 @@
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_8.2 Nightingale Factory\bin\Debug\netcoreapp3.1\Chapter_8.2 Nightingale Factory.exe
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_8.2 Nightingale Factory\bin\Debug\netcoreapp3.1\Chapter_8.2 Nightingale Factory.deps.json
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_8.2 Nightingale Factory\bin\Debug\netcoreapp3.1\Chapter_8.2 Nightingale Factory.runtimeconfig.json
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_8.2 Nightingale Factory\bin\Debug\netcoreapp3.1\Chapter_8.2 Nightingale Factory.runtimeconfig.dev.json
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_8.2 Nightingale Factory\bin\Debug\netcoreapp3.1\Chapter_8.2 Nightingale Factory.dll
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_8.2 Nightingale Factory\bin\Debug\netcoreapp3.1\Chapter_8.2 Nightingale Factory.pdb
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_8.2 Nightingale Factory\obj\Debug\netcoreapp3.1\Chapter_8.2 Nightingale Factory.csprojAssemblyReference.cache
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_8.2 Nightingale Factory\obj\Debug\netcoreapp3.1\Chapter_8.2 Nightingale Factory.AssemblyInfoInputs.cache
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_8.2 Nightingale Factory\obj\Debug\netcoreapp3.1\Chapter_8.2 Nightingale Factory.AssemblyInfo.cs
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_8.2 Nightingale Factory\obj\Debug\netcoreapp3.1\Chapter_8.2 Nightingale Factory.csproj.CoreCompileInputs.cache
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_8.2 Nightingale Factory\obj\Debug\netcoreapp3.1\Chapter_8.2 Nightingale Factory.dll
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_8.2 Nightingale Factory\obj\Debug\netcoreapp3.1\Chapter_8.2 Nightingale Factory.pdb
+G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_8.2 Nightingale Factory\obj\Debug\netcoreapp3.1\Chapter_8.2 Nightingale Factory.genruntimeconfig.cache

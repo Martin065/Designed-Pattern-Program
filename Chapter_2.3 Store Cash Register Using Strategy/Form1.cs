@@ -26,24 +26,24 @@ namespace Chapter_2._3_Store_Cash_Register_Using_Strategy
             double price = Convert.ToDouble(txtB_Price.Text);
             int count = Convert.ToInt32(txtB_Count.Text);
 
-            string strategy = comB_Discount.SelectedItem.ToString();
-            CashSuper cs = null;
+            string strategy = comB_Discount.SelectedItem.ToString();            
+            CashContext cc = null;
             switch (strategy)
             {
                 case "無折扣":
-                    cs = new CashNormal();
+                    cc = new CashContext(new CashNormal());
                     break;
                 case "打七折":
-                    cs = new CashRebate("0.7");
+                    cc = new CashContext(new CashRebate("0.7"));
                     break;
                 case "滿五百折一百":
-                    cs = new CashReturn("500","100");
+                    cc = new CashContext(new CashReturn("500","100"));
                     break;
                 case "滿五百折兩百":
-                    cs = new CashReturn("500", "200");
+                    cc = new CashContext(new CashReturn("500", "200"));
                     break;
                 default:
-                    cs = new CashNormal();
+                    cc = new CashContext(new CashNormal());
                     break;
             }
 
@@ -57,7 +57,7 @@ namespace Chapter_2._3_Store_Cash_Register_Using_Strategy
              * 工廠模式使用者須知道的類別       ○                                          ○
              * 策略模式使用者需知道的類別                 ○         ○         ○                      ○
              */
-            CashContext cc = new CashContext(cs);
+            
 
             double totalProce = price * count;
             double finalProce = cc.getResult(totalProce);

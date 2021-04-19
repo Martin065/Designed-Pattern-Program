@@ -25,8 +25,11 @@ namespace Chapter_2._2_Store_Cash_Register_Using_Simple_Factory
         {
             double price = Convert.ToDouble(txtB_Price.Text);
             int count = Convert.ToInt32(txtB_Count.Text);
-            /* 簡單工廠的實現，但沒有辦法個別設定工廠的參數，都是依照寫死的情況下去調整的，
-             * 但其實在下拉選單中增加選項，例如滿五百折一百和滿五百折兩百，這樣工廠內就可以把參數設死了
+            /* 
+             * 簡單工廠的實現，但沒有辦法個別設定工廠的參數，都是依照寫死的情況下去調整的，
+             * 但其實在下拉選單中增加選項，例如滿五百折一百和滿五百折兩百，這樣工廠內就可以把參數設死了，
+             * 好處是使用者不需要去new物件。
+             * 
             */
             CashSuper cs = CashFactory.createCashAcept(comB_Discount.SelectedItem.ToString());   
             double totalProce = price * count;
