@@ -1,9 +1,0 @@
-G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_2.2 Store Cash Register Using Simple Factory\obj\Debug\Chapter_2._2_Store_Cash_Register_Using_Simple_Factory.Form1.resources
-G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_2.2 Store Cash Register Using Simple Factory\obj\Debug\Chapter_2._2_Store_Cash_Register_Using_Simple_Factory.Properties.Resources.resources
-G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_2.2 Store Cash Register Using Simple Factory\obj\Debug\Chapter_2.2 Store Cash Register Using Simple Factory.csproj.GenerateResource.cache
-G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_2.2 Store Cash Register Using Simple Factory\obj\Debug\Chapter_2.2 Store Cash Register Using Simple Factory.csproj.CoreCompileInputs.cache
-G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_2.2 Store Cash Register Using Simple Factory\bin\Debug\Chapter_2.2 Store Cash Register Using Simple Factory.exe.config
-G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_2.2 Store Cash Register Using Simple Factory\bin\Debug\Chapter_2.2 Store Cash Register Using Simple Factory.exe
-G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_2.2 Store Cash Register Using Simple Factory\bin\Debug\Chapter_2.2 Store Cash Register Using Simple Factory.pdb
-G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_2.2 Store Cash Register Using Simple Factory\obj\Debug\Chapter_2.2 Store Cash Register Using Simple Factory.exe
-G:\Martin\_DesignedPatten\Design Pattern Program\Chapter_2.2 Store Cash Register Using Simple Factory\obj\Debug\Chapter_2.2 Store Cash Register Using Simple Factory.pdb
