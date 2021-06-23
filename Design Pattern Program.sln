@@ -29,7 +29,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chapter_7.2 Chase Girl Usin
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chapter_8.1 Factory Method Sample", "Chapter_8.1 Factory Method Sample\Chapter_8.1 Factory Method Sample.csproj", "{C85ABBE8-6D37-40DE-99ED-262AD6DCCBD7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter_8.2 Nightingale Factory", "Chapter_8.2 Nightingale Factory\Chapter_8.2 Nightingale Factory.csproj", "{CCE5DBD4-8D7B-458D-92C3-310AEB998988}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chapter_8.2 Nightingale Factory", "Chapter_8.2 Nightingale Factory\Chapter_8.2 Nightingale Factory.csproj", "{CCE5DBD4-8D7B-458D-92C3-310AEB998988}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter_9.1 Resume Using Prototype (Shallow Copy)", "Chapter_9.1 Resume Using Prototype (Shallow Copy)\Chapter_9.1 Resume Using Prototype (Shallow Copy).csproj", "{91F8EC43-FEF6-4F35-BC58-42357BA3989C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{CCE5DBD4-8D7B-458D-92C3-310AEB998988}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CCE5DBD4-8D7B-458D-92C3-310AEB998988}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CCE5DBD4-8D7B-458D-92C3-310AEB998988}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91F8EC43-FEF6-4F35-BC58-42357BA3989C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91F8EC43-FEF6-4F35-BC58-42357BA3989C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91F8EC43-FEF6-4F35-BC58-42357BA3989C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91F8EC43-FEF6-4F35-BC58-42357BA3989C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
