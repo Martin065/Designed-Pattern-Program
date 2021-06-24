@@ -36,7 +36,7 @@ namespace Chapter_9._1_Resume_Using_Prototype__Shallow_Copy_
         }
         public object Clone()
         {
-            return (object)this.MemberwiseClone();
+            return (object)this.MemberwiseClone();    // 淺複製
         }
         /* 
          * 因為Portotype Pattern實在太常使用了，所以微軟直接定義好IClonable讓大家可以直接實現這個Pattern，
@@ -45,9 +45,10 @@ namespace Chapter_9._1_Resume_Using_Prototype__Shallow_Copy_
          * 所以在初始化的資訊不發生變化的情況下，進行複製是最好的方法。
          * 但必須注意的一個點在於，如果複製時該物件內部欄位是"值類型"會直接複製，"參考類型"則是複製參考，而不是參考的物件本身，
          * 什麼意思呢？意思代表複製出來的物件與原始物件(被複製的物件)，都會對"參考類型"這個欄位參考到同一個物件，
-         * 就像這個範例，這些Resume內的WorkExperence資訊是一個物件，他是屬於"參考類型"，因此最後c物件再做修改時，
-         * a物件與b物件的WorkExperence也一同被修改了，反過來看"值類型"，儘管c物件做了修改，
-         * 但a物件還是保有自己修改後的參數，因為STRING是屬於"值類型"的欄位，所以是各自獨立的。
+         * 就像這個範例，這些Resume內的WorkExperence資訊是一個物件，他是屬於"參考類型"，因此最後c物件在做修改時，
+         * a物件與b物件的WorkExperence也一同被修改了，因為他們都指向了同一個WorkExperence物件，
+         * 反過來看"值類型"，儘管c物件做了修改，但a物件還是保有自己修改後的參數，
+         * 因為STRING是屬於"值類型"的欄位，所以是各自獨立的。
         */
     }
 }
