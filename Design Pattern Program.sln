@@ -49,6 +49,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter_13.1 Builder Patter
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter_13.2 AOI Using Builder Pattern", "Chapter_13.2 AOI Using Builder Pattern\Chapter_13.2 AOI Using Builder Pattern.csproj", "{A4A9A8A6-E3FC-4468-B799-6840D992B1A8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter_14.1 Observer Pattern", "Chapter_14.1 Observer Pattern\Chapter_14.1 Observer Pattern.csproj", "{17C3330D-146C-487B-8DEB-C85757EE2B2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter_14.2 Observer Pattern Using Delegate and Event", "Chapter_14.2 Observer Pattern Using Delegate and Event\Chapter_14.2 Observer Pattern Using Delegate and Event.csproj", "{A12D3B63-839E-4DE9-A604-922D4D6C07C8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +151,14 @@ Global
 		{A4A9A8A6-E3FC-4468-B799-6840D992B1A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4A9A8A6-E3FC-4468-B799-6840D992B1A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4A9A8A6-E3FC-4468-B799-6840D992B1A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17C3330D-146C-487B-8DEB-C85757EE2B2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17C3330D-146C-487B-8DEB-C85757EE2B2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17C3330D-146C-487B-8DEB-C85757EE2B2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17C3330D-146C-487B-8DEB-C85757EE2B2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A12D3B63-839E-4DE9-A604-922D4D6C07C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A12D3B63-839E-4DE9-A604-922D4D6C07C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A12D3B63-839E-4DE9-A604-922D4D6C07C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A12D3B63-839E-4DE9-A604-922D4D6C07C8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

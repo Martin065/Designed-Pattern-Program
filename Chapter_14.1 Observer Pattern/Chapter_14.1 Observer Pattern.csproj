@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A4A9A8A6-E3FC-4468-B799-6840D992B1A8}</ProjectGuid>
+    <ProjectGuid>{17C3330D-146C-487B-8DEB-C85757EE2B2B}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Chapter_13._2_AOI_Using_Builder_Pattern</RootNamespace>
-    <AssemblyName>Chapter_13.2 AOI Using Builder Pattern</AssemblyName>
+    <RootNamespace>Chapter_14._1_Observer_Pattern</RootNamespace>
+    <AssemblyName>Chapter_14.1 Observer Pattern</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,22 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AOI.cs" />
-    <Compile Include="AOI Builder Pattern\AOIConfigBuilder.cs" />
-    <Compile Include="AOI Builder Pattern\AOI_ConfigOneBuilder.cs" />
-    <Compile Include="AOI Builder Pattern\AOI_ConfigTwoBuilder.cs" />
-    <Compile Include="AOI Builder Pattern\AOIBuildDirector.cs" />
-    <Compile Include="OpticalSensor\OpticalBrand A.cs" />
-    <Compile Include="OpticalSensor\OpticalBrand B.cs" />
-    <Compile Include="OpticalSensor\OpticalSensor.cs" />
+    <Compile Include="Boss.cs" />
+    <Compile Include="EmployeeWhoWatchNBA.cs" />
+    <Compile Include="EmployeeWhoWatchStock.cs" />
+    <Compile Include="Observer.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Robot\RobotBrand Y.cs" />
-    <Compile Include="Robot\RobotBrand Z.cs" />
-    <Compile Include="Robot\Robot.cs" />
-    <Compile Include="Stage\Stage.cs" />
-    <Compile Include="Stage\StageBrand O.cs" />
-    <Compile Include="Stage\StageBrand P.cs" />
+    <Compile Include="Subject.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
